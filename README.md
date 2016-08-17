@@ -1,9 +1,8 @@
 # Airbnb_Data_analysis
-
-Airbnb data_analysis project
 : Where will a new guest book their first travel experience?
 
-Purpose : predict which country a new user’s first booking destination will be. All the users in this dataset are from the USA
+**Purpose**
+> Predict which country a new user’s first booking destination will be. All the users in this dataset are from the USA
 
 Possible destination country : US,FR,CA,GB,ES,IT,PT,NL,DE,AU,NDF(No destination found), other (please note that ’NDF’ is different from ‘other’ because ‘other’ means there was a booking, but is to a country not included in the list, while ‘NDF’ means there wasn’t a booking
 
